@@ -3,8 +3,12 @@
 This project is part of:  
 [in_cognitive TechDay Wrocław](https://www.facebook.com/events/703140230184855/)
 
-hosted by [intive](https://www.intive.com/)  
-[![(masked)](./images/intive.png)](https://www.intive.com/)
+### Hosted by:
+  [intive](https://www.intive.com/)  
+  [![(masked)](./images/intive.png)](https://www.intive.com/)
+
+### Workshop is conducted by:  
+Błażej Matuszewski  | [github](https://github.com/bwosh) | [linkedin](https://www.linkedin.com/in/blazejmatuszewski/) | [twitter](https://twitter.com/bm4tu)
 
 # Project Description
 
